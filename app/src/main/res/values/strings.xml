@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Facial Expressions</string>
+    <string name="btnStart">See Actor</string>
+    <string name="btnStop">Start Tween Animation</string>
+    <string name="imgDescription">Face image</string>
+</resources>
